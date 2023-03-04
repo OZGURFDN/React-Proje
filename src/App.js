@@ -1,3 +1,4 @@
+import "bulma/css/bulma.css";
 import "./App.css";
 import Course from "./Course";
 import Angular from "./images/angular.jpg";
