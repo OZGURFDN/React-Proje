@@ -1,5 +1,9 @@
-.box{
-  width: 250px;
-  height: 250px;
-  background-color:aqua ;
+.image.is-4by3 img{
+  height:150px ;
+}
+.image.is-4by3{
+  padding-top: 150px;
+}
+.card .media:not(:last-child){
+  margin-bottom: 10px;
 }
