@@ -9,9 +9,9 @@ import kompleweb from "./images/kompleweb.jpg";
 function App() {
   return (
     <div className="App">
-      <section class="hero is-link">
-        <div class="hero-body">
-          <p class="title">Kurslarım</p>
+      <section className="hero is-link">
+        <div className="hero-body">
+          <p className="title">Kurslarım</p>
         </div>
       </section>
       <div className="container">
@@ -42,7 +42,7 @@ function App() {
             <div className="column">
               <Course
                 image={ccsharp}
-                title="ccsharp"
+                title="Ccsharp"
                 description="
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum unde
           alias laboriosam minima! Omnis, quisquam. Optio doloremque deserunt,
@@ -53,7 +53,7 @@ function App() {
             <div className="column">
               <Course
                 image={kompleweb}
-                title="kompleweb"
+                title="Kompleweb"
                 description="
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum unde
           alias laboriosam minima! Omnis, quisquam. Optio doloremque deserunt,
